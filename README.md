@@ -5,5 +5,7 @@ Jeu unity
 - Grapple (force pull)
 - Combat
 - Enemies
+- conditions de victoire
 2 - 
 - Random Generation
+- 
