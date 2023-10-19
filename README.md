@@ -1,11 +1,16 @@
 # Grapple-King
-Jeu unity
+Jeu unity 
 1 - Basic Gameplay:
 - Mouvement (Jump, Left, Right)
 - Grapple (force pull)
 - Combat
 - Enemies
-- conditions de victoire
-2 - 
-- Random Generation
-- 
+- Score
+- Lives
+
+2 - UI and variety
+- Different types of enemies
+- Different weapons
+- UI enter and exit menu 
+
+3 - 
