@@ -1,0 +1,10 @@
+// Rotate the player based on the horizontal input.
+        
+        private float rotationSpeed = 100.0f; // Adjust the rotation speed as needed.
+        
+        if (horizontalInput != 0)
+        {
+            float targetRotation = horizontalInput > 0 ? 90.0f : -90.0f;
+            Quaternion newRotation = Quaternion.Euler(0, targetRotation, 0);
+            transform.rotation = Quaternion.RotateTowards(transform.rotation, newRotation, rotationSpeed * Time.fixedDeltaTime);
+        }
