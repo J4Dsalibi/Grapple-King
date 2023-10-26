@@ -1,4 +1,4 @@
-# Grapple-King
+// Grapple-King
 Jeu unity 
 1 - Basic Gameplay:
 - Mouvement (Jump, Left, Right)
@@ -13,4 +13,7 @@ Jeu unity
 - Different weapons
 - UI enter and exit menu 
 
-3 - 
+3 - Maps
+- Procedural generation
+- Boss fights
+- Animation
